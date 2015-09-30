@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禹貢長箋
-#+DATE: 2015-09-23 09:36:20
-#+PROPERTY: JUAN 5
+#+DATE: 2015-08-24 22:03:47.074506
+#+PROPERTY: ID KR1b0052
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五
 <pb:KR1b0052_WYG_005-1a>¶
 欽定四庫全書¶
 　禹貢長箋卷五　　　　　　吳江朱鶴齡撰¶
@@ -632,4 +634,3 @@
 　靖中塞渦河口截野鷄岡則正𣲖皆歸孫繼口歴徐¶
 　邳桃清入淮已而從清河縣南合淮下流且奪淮入¶
 　海之路矣¶
-
